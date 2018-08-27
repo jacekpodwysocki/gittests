@@ -1,6 +1,6 @@
 <?php
 
 echo 'test2';
-// comment
+// comment zmiana 12
 
 ?>
