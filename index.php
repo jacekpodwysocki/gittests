@@ -1,7 +1,7 @@
 <?php
 // added to master
 
-$keys = ['sky', 'grass', 'pink'];
+$keys = ['sky', 'grass', 'black'];
 $values = ['blue', 'green', 'blue'];
  
 $array = array_combine($keys, $values);
